@@ -5,7 +5,7 @@ Commupte Compass is a web application using Winnipeg Transit API, React and Node
 This project was deployed with Vercel: 
 (https://commute-compass-vercel.vercel.app/).
 
-##Contributors
+## Contributors
 Mann, Leonard, Kelvin, Heet, Raj
 
-#This is an updated version/ secondary version to the application we built during the hackathon, contains new UI and fixed a number of bugs
+# This is an updated version/ secondary version to the application we built during the hackathon, contains new UI and fixed a number of bugs
